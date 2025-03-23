@@ -92,13 +92,13 @@ ul {
     <body>
     
     <ul>
-        <li><a href="Customer.html">Customer Orders</a></li>
-        <li><a href="Billing.html">Billing</a></li>
-        <li><a class="active" href="inventory.html">Inventory/Stocks</a></li>
-        <li><a href="Overall.html">Overall</a></li>
-        <li><a href="SignUp.html">Sign up</a></li>
-        <li><a href="Login.html">Login</a></li>
-        <li><a href="ForgotPassword.html">Forgot Password</a></li>
+        <li><a href="Customer.php">Customer Orders</a></li>
+        <li><a href="Billing.php">Billing</a></li>
+        <li><a class="active" href="inventory.php">Inventory/Stocks</a></li>
+        <li><a href="Overall.php">Overall</a></li>
+        <li><a href="SignUp.php">Sign up</a></li>
+        <li><a href="Login.php">Login</a></li>
+        <li><a href="ForgotPassword.php">Forgot Password</a></li>
     </ul>
 
     <div class="RightSide">
